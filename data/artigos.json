@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "primeiro-artigo",
+    "titulo": "Primeiro Artigo",
+    "autor": "Michael",
+    "data": "2026-03-24",
+    "descricao": "Este é o primeiro artigo do blog",
+    "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+  },
+  {
+    "slug": "segundo-artigo",
+    "titulo": "Segundo Artigo",
+    "autor": "Michael",
+    "data": "2026-03-25",
+    "descricao": "Este é o segundo artigo do blog",
+    "conteudo": "Mais conteúdo aqui..."
+  }
+]
